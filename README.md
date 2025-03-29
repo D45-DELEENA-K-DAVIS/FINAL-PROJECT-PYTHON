@@ -12,5 +12,5 @@ Analysis Tasks:
   2. Segregate employees based on their positions within the company.
   3. Identify the predominant age group among employees.
   4. Discover which team and position have the highest salary expenditure.
-  5.Investigate if there's any correlation between age and salary, and represent it visually. Graphical Representation: For each of the five analysis tasks, create appropriate visualizations to present your findings effectively.
-  6.Data Story: Provide insights gained from the analysis, highlighting key trends, patterns, and correlations within the dataset. 
+  5. Investigate if there's any correlation between age and salary, and represent it visually. Graphical Representation: For each of the five analysis tasks, create appropriate visualizations to present your findings effectively.
+  6. Data Story: Provide insights gained from the analysis, highlighting key trends, patterns, and correlations within the dataset. 
